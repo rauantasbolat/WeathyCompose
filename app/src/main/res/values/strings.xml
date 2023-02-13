@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">WeathyKazDreamCompose</string>
+    <string name="later_this_week">На этой неделе</string>
+    <string name="retry">Перезагрузить</string>
+</resources>
